@@ -1,8 +1,8 @@
 // Component Imports
-import Login from '@views/Login'
+import Login from '@views/Login';
 
 // Server Action Imports
-import { getServerMode } from '@core/utils/serverHelpers'
+import { getServerMode } from '@core/utils/serverHelpers';
 
 export const metadata = {
   title: 'Login - Royal Software Company',

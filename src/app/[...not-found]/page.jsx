@@ -1,10 +1,10 @@
 // Component Imports
-import Providers from '@components/Providers'
-import BlankLayout from '@layouts/BlankLayout'
-import NotFound from '@views/NotFound'
+import Providers from '@components/Providers';
+import BlankLayout from '@layouts/BlankLayout';
+import NotFound from '@views/NotFound';
 
 // Util Imports
-import { getServerMode } from '@core/utils/serverHelpers'
+import { getServerMode } from '@core/utils/serverHelpers';
 
 export const metadata = {
   title: 'Not Found - Royal Software Company',

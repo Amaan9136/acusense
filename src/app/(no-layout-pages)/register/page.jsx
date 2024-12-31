@@ -1,8 +1,8 @@
 // Component Imports
-import Register from '@views/Register'
+import Register from '@views/Register';
 
 // Server Action Imports
-import { getServerMode } from '@core/utils/serverHelpers'
+import { getServerMode } from '@core/utils/serverHelpers';
 
 export const metadata = {
   title: 'Register - Royal Software Company',

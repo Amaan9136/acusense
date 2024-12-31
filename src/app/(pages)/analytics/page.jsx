@@ -3,19 +3,19 @@ import Grid from '@mui/material/Grid'
 
 // Components Imports
 import Award from '@/views/analytics/Award'
+import DepositWithdraw from '@/views/analytics/DepositWithdraw'
+import DistributedColumnChart from '@/views/analytics/DistributedColumnChart'
+import LineChart from '@/views/analytics/LineChart'
+import SalesByCountries from '@/views/analytics/SalesByCountries'
+import Table from '@/views/analytics/Table'
+import TotalEarning from '@/views/analytics/TotalEarning'
 import Transactions from '@/views/analytics/Transactions'
 import WeeklyOverview from '@/views/analytics/WeeklyOverview'
-import TotalEarning from '@/views/analytics/TotalEarning'
-import LineChart from '@/views/analytics/LineChart'
-import DistributedColumnChart from '@/views/analytics/DistributedColumnChart'
-import DepositWithdraw from '@/views/analytics/DepositWithdraw'
-import SalesByCountries from '@/views/analytics/SalesByCountries'
 import CardStatVertical from '@components/card-statistics/Vertical'
-import Table from '@/views/analytics/Table'
 
 export const metadata = {
-  title: 'analytics - Royal Software Company',
-  description: 'RSC Royal Software Company.',
+  title: 'analytics - Royal Software ',
+  description: 'RSC Royal Software .',
 };
 
 const Analytics = () => {
